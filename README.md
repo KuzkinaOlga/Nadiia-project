@@ -1,1 +1,1 @@
-# template_js_vite_sass
+# template_react_sass
